@@ -1,1 +1,1 @@
-please download the newest release , the main file is just a test.
+Please make sure download the latest release. Others won't work.
